@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Biodata+media</title>
+        <style>
+        td { border-top: 1px solid #ddd;}
+            table.tabel2 {
+                margin-right: auto;
+                margin-left: auto;
+                padding: 8px;
+                line-height: 1.42857143;
+                vertical-align: top;
+                border-collapse: collapse;
+            }
+        </style>
+    </head>
+    <body> 
+        <a name="atas"></a>
+        <center>
+            <h1>Biodata Mahasiswa</h1>
+            <hr>
+        </center>   
+        <img src="fadhlifm.jpeg" width="10%">
+        <center>
+            <div>            
+                <table>
+                    <tr>
+                        <td>NAMA</td>
+                        <td>:</td>
+                        <td>Fadhli faqih m</td>
+                        <hr width="50%" color="black">
+                    </tr>
+                    <tr>
+                        <td>NIM</td>
+                        <td>:</td>
+                        <td>A11.2021.13473</td>
+                    </tr>
+                    <tr>
+                        <td>Dosen wali</td>
+                        <td>:</td>
+                        <td>Galuh Wilujeng Saraswati, M.Cs</td>
+                    </tr>
+                    <tr>
+                        <td>Status</td>
+                        <td>:</td>
+                        <td>Aktif</td>
+                    </tr>
+                    <tr>
+                        <td>Alamat semarang</td>
+                        <td>:</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Alamat</td>
+                        <td>:</td>
+                        <td>Wanasari, Wanasari, Brebes</td>
+                    </tr>
+                    <tr>
+                        <td>No hp</td>
+                        <td>:</td>
+                        <td>083823******</td>
+                    </tr>
+                    <tr>
+                        <td>Email</td>
+                        <td>:</td>
+                        <td>111202113473@gmail.com</td>
+                    </tr>
+                    <tr>
+                        <td>Agama</td>
+                        <td>:</td>
+                        <td>Islam</td>
+                    </tr>
+                </table>
+            </div>
+        </center>
+        <div style="border-radius: 0px;">
+            <div>
+                <center><h4 class="jadwal">Jadwal KRS</h4></center>
+                <div>
+                    <table class="tabel2">
+                        <thead>
+                        <tr>
+                            <th>No</th>
+                            <th>Kode mata kuliah</th>
+                            <th>Kelompok</th>
+                            <th>Matakuliah</th>
+                            <th>SKS</th>
+                            <th>Status</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="ganjil">
+                                <td>1</td>
+                                <td>A11.54101</td>
+                                <td>A11.4106</td>
+                                <td>KALKULUS 1</td>
+                                <td>4</td>
+                                <td>B</td>
+                            </tr>
+                            <tr class="genap">
+                                <td>2</td>
+                                <td>A11.54105</td>
+                                <td>A11.4106</td>
+                                <td>DASAR PEMROGRAMAN</td>
+                                <td>4</td>
+                                <td>B</td>
+                            </tr>
+                            <tr class="ganjil">
+                                <td>3</td>
+                                <td>A11.54302</td>
+                                <td>A11.4106</td>
+                                <td>MATEMATIKA DISKRIT</td>
+                                <td>2</td>
+                                <td>B</td>
+                            </tr>
+                            <tr class="genap">
+                                <td>4</td>
+                                <td>A11.54314</td>
+                                <td>A11.4106</td>
+                                <td>PEMROGRAMAN BERBASIS WEB</td>
+                                <td>2</td>
+                                <td>B</td>
+                            </tr>
+                            <tr class="ganjil">
+                                <td>5</td>
+                                <td>A11.54403</td>
+                                <td>A11.4106</td>
+                                <td>ORGANISASI DAN ARSITEKTUR KOMPUTER</td>
+                                <td>2</td>
+                                <td>B</td>
+                            </tr>
+                            <tr class="genap">
+                                <td>6</td>
+                                <td>AF201704</td>
+                                <td>A11.4106</td>
+                                <td>DASAR DASAR KOMPUTASI</td>
+                                <td>2</td>
+                                <td>B</td>
+                            </tr>
+                            <tr class="ganjil">
+                                <td>7</td>
+                                <td>U201704</td>
+                                <td>A11.4MATR</td>
+                                <td>PENGANTAR TEKNOLOGI INFORMASI</td>
+                                <td>2</td>
+                                <td>B</td>
+                            </tr>
+                        </tbody>
+
+                    </table>
+                </div>
+            </div>
+</div>
+
+<!-- Memulai HTML Media-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/impJiSfof9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--video width="320" height="240" controls>
+    <source src="Kok bisa vid.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video-->
+
+<!-- Akhir HTML Media-->
+    </body>
+</html>
+
+
+
+
