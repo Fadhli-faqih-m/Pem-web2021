@@ -1,0 +1,14 @@
+p {
+    font-family: serif;
+    line-height: 1.75em;
+}
+
+i {
+    font-family: monospace;
+    color: #434;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: tomato;
+}
